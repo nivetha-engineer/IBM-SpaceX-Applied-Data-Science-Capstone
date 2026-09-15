@@ -1,0 +1,39 @@
+{
+  "best_model": "KNN",
+  "results": {
+    "Logistic Regression": {
+      "best_params": {
+        "C": 10,
+        "solver": "lbfgs"
+      },
+      "cv_best_score": 0.6,
+      "test_accuracy": 0.3333333333333333
+    },
+    "SVM": {
+      "best_params": {
+        "C": 10,
+        "gamma": "scale",
+        "kernel": "linear"
+      },
+      "cv_best_score": 0.6017857142857143,
+      "test_accuracy": 0.3333333333333333
+    },
+    "Decision Tree": {
+      "best_params": {
+        "criterion": "entropy",
+        "max_depth": 2,
+        "min_samples_split": 2
+      },
+      "cv_best_score": 0.7071428571428571,
+      "test_accuracy": 0.5555555555555556
+    },
+    "KNN": {
+      "best_params": {
+        "n_neighbors": 3,
+        "p": 1
+      },
+      "cv_best_score": 0.5553571428571428,
+      "test_accuracy": 0.6111111111111112
+    }
+  }
+}
