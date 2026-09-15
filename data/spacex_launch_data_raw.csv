@@ -1,0 +1,91 @@
+FlightNumber,Date,BoosterVersion,PayloadMass,Orbit,LaunchSite,Outcome,Flights,GridFins,Reused,Legs,Block,ReusedCount,Class
+1,2010-07-20,Falcon 9 B5,6924.9,LEO,CCAFS SLC-40,Success (ground pad),2,True,True,True,5,1,1
+2,2010-06-21,Falcon 9 B5,8850.7,MEO,CCAFS SLC-40,Failure (drone ship),1,True,False,True,5,0,0
+3,2010-06-12,Falcon 9,300.0,LEO,VAFB SLC-4E,Failure (drone ship),2,False,True,False,1,1,0
+4,2010-04-25,Falcon 9,6827.6,GTO,CCAFS SLC-40,No attempt,3,False,True,False,1,2,0
+5,2010-05-02,Falcon 9 B4,3252.6,GTO,CCAFS SLC-40,Failure (drone ship),2,True,True,True,4,1,0
+6,2010-06-22,Falcon 9 B4,5144.1,LEO,VAFB SLC-4E,No attempt,3,True,True,True,4,2,0
+7,2010-08-14,Falcon 9 v1.1,5245.6,ISS,CCAFS SLC-40,Failure (drone ship),1,False,False,True,2,0,0
+8,2010-12-13,Falcon 9 v1.1,4837.6,MEO,CCAFS SLC-40,No attempt,1,False,False,True,2,0,0
+9,2011-08-11,Falcon 9 v1.1,7547.3,GTO,VAFB SLC-4E,No attempt,2,False,True,True,2,1,0
+10,2011-01-16,Falcon 9 FT,6991.1,PO,KSC LC-39A,Failure (drone ship),2,True,True,True,3,1,0
+11,2011-03-01,Falcon 9 B4,3784.7,LEO,KSC LC-39A,Success (drone ship),1,True,False,True,4,0,1
+12,2011-07-17,Falcon 9 FT,3643.4,GTO,VAFB SLC-4E,Failure (drone ship),2,True,True,True,3,1,0
+13,2011-07-27,Falcon 9 B4,6144.7,ISS,CCAFS SLC-40,Failure (drone ship),1,True,False,True,4,0,0
+14,2011-11-26,Falcon 9 v1.1,7472.6,ISS,VAFB SLC-4E,Success (ground pad),1,False,False,True,2,0,1
+15,2011-09-03,Falcon 9,300.0,LEO,CCAFS SLC-40,No attempt,1,False,False,False,1,0,0
+16,2011-08-09,Falcon 9 FT,6260.1,LEO,CCAFS SLC-40,Success (ground pad),2,True,True,True,3,1,1
+17,2011-08-17,Falcon 9 FT,5358.4,LEO,CCAFS SLC-40,Failure (parachute),2,True,True,True,3,1,0
+18,2012-06-23,Falcon 9 B4,6258.8,SSO,CCAFS SLC-40,Failure (drone ship),2,True,True,True,4,1,0
+19,2012-11-16,Falcon 9 B5,5561.8,PO,VAFB SLC-4E,Failure (drone ship),3,True,True,True,5,2,0
+20,2012-07-20,Falcon 9 B5,2866.4,ISS,KSC LC-39A,Failure (parachute),2,True,True,True,5,1,0
+21,2012-10-03,Falcon 9 FT,1736.8,SO,VAFB SLC-4E,No attempt,1,True,False,True,3,0,0
+22,2012-09-03,Falcon 9 B4,5761.8,MEO,VAFB SLC-4E,No attempt,4,True,True,True,4,3,0
+23,2012-03-16,Falcon 9 v1.1,5884.6,PO,KSC LC-39A,Success (ground pad),1,False,False,True,2,0,1
+24,2012-05-16,Falcon 9 B4,2822.9,PO,VAFB SLC-4E,Failure (parachute),1,True,False,True,4,0,0
+25,2012-03-22,Falcon 9 FT,7433.1,PO,KSC LC-39A,Failure (parachute),1,True,False,True,3,0,0
+26,2012-05-16,Falcon 9 FT,4972.9,LEO,KSC LC-39A,Success (ground pad),3,True,True,True,3,2,1
+27,2013-09-05,Falcon 9 B5,6541.1,ES-L1,VAFB SLC-4E,Failure (drone ship),2,True,True,True,5,1,0
+28,2013-02-25,Falcon 9 FT,5339.8,MEO,VAFB SLC-4E,Success (drone ship),2,True,True,True,3,1,1
+29,2013-11-10,Falcon 9 B5,7419.4,SSO,CCAFS SLC-40,Success (ground pad),4,True,True,True,5,3,1
+30,2013-09-04,Falcon 9 B5,7845.6,PO,KSC LC-39A,No attempt,1,True,False,True,5,0,0
+31,2013-12-02,Falcon 9,4432.2,GTO,KSC LC-39A,Failure (parachute),1,False,False,False,1,0,0
+32,2013-04-10,Falcon 9 B5,5680.1,ISS,CCAFS SLC-40,No attempt,1,True,False,True,5,0,0
+33,2013-05-07,Falcon 9,5600.3,GTO,KSC LC-39A,No attempt,2,False,True,False,1,1,0
+34,2013-01-24,Falcon 9 FT,4066.5,GTO,CCAFS SLC-40,Success (ground pad),3,True,True,True,3,2,1
+35,2013-10-26,Falcon 9 v1.1,6199.1,SSO,KSC LC-39A,Success (ground pad),2,False,True,True,2,1,1
+36,2014-06-23,Falcon 9,1953.1,GTO,CCAFS SLC-40,Success (drone ship),1,False,False,False,1,0,1
+37,2014-01-14,Falcon 9 B5,7038.0,ISS,CCAFS SLC-40,Failure (drone ship),3,True,True,True,5,2,0
+38,2014-10-26,Falcon 9 B5,6819.8,GTO,KSC LC-39A,Failure (parachute),4,True,True,True,5,3,0
+39,2014-04-24,Falcon 9 B4,3224.3,MEO,VAFB SLC-4E,No attempt,2,True,True,True,4,1,0
+40,2014-12-14,Falcon 9,5949.4,LEO,KSC LC-39A,Success (drone ship),2,False,True,False,1,1,1
+41,2014-02-19,Falcon 9 FT,6285.4,PO,VAFB SLC-4E,No attempt,1,True,False,True,3,0,0
+42,2014-10-05,Falcon 9 B5,3975.6,MEO,VAFB SLC-4E,Success (drone ship),2,True,True,True,5,1,1
+43,2014-05-12,Falcon 9 FT,7315.9,LEO,VAFB SLC-4E,Success (ground pad),1,True,False,True,3,0,1
+44,2014-11-19,Falcon 9 FT,7289.7,LEO,VAFB SLC-4E,Success (drone ship),4,True,True,True,3,3,1
+45,2015-05-05,Falcon 9 FT,8150.8,SSO,KSC LC-39A,Failure (drone ship),1,True,False,True,3,0,0
+46,2015-07-14,Falcon 9 B4,2867.3,GTO,VAFB SLC-4E,Success (drone ship),1,True,False,True,4,0,1
+47,2015-10-26,Falcon 9 B4,4546.7,MEO,KSC LC-39A,Success (drone ship),2,True,True,True,4,1,1
+48,2015-01-22,Falcon 9 B5,5948.4,VLEO,VAFB SLC-4E,Failure (drone ship),1,True,False,True,5,0,0
+49,2015-12-22,Falcon 9 B4,3758.2,GTO,CCAFS SLC-40,Success (drone ship),3,True,True,True,4,2,1
+50,2015-07-01,Falcon 9 B4,2921.7,LEO,CCAFS SLC-40,Success (drone ship),2,True,True,True,4,1,1
+51,2015-10-12,Falcon 9 B5,1327.2,LEO,VAFB SLC-4E,Failure (drone ship),2,True,True,True,5,1,0
+52,2015-09-17,Falcon 9 B4,6818.0,GTO,KSC LC-39A,No attempt,1,True,False,True,4,0,0
+53,2015-12-10,Falcon 9 B5,5255.9,PO,CCAFS SLC-40,Success (drone ship),1,True,False,True,5,0,1
+54,2016-02-05,Falcon 9 B5,7647.9,HEO,KSC LC-39A,Failure (drone ship),3,True,True,True,5,2,0
+55,2016-03-06,Falcon 9 B5,7132.3,ISS,VAFB SLC-4E,Failure (drone ship),1,True,False,True,5,0,0
+56,2016-01-22,Falcon 9 B5,8748.6,HEO,CCAFS SLC-40,Failure (drone ship),4,True,True,True,5,3,0
+57,2016-03-01,Falcon 9,5981.1,GTO,KSC LC-39A,Failure (parachute),3,False,True,False,1,2,0
+58,2016-05-14,Falcon 9 FT,4434.4,ISS,CCAFS SLC-40,Success (ground pad),2,True,True,True,3,1,1
+59,2016-08-07,Falcon 9 B4,8912.5,GTO,VAFB SLC-4E,Failure (parachute),2,True,True,True,4,1,0
+60,2016-07-15,Falcon 9 B5,5754.5,PO,VAFB SLC-4E,Failure (parachute),3,True,True,True,5,2,0
+61,2016-11-19,Falcon 9 B5,5940.3,SSO,CCAFS SLC-40,Success (ground pad),2,True,True,True,5,1,1
+62,2016-08-17,Falcon 9 FT,724.1,ISS,CCAFS SLC-40,Failure (drone ship),1,True,False,True,3,0,0
+63,2017-11-11,Falcon 9 FT,6306.5,LEO,CCAFS SLC-40,Failure (drone ship),2,True,True,True,3,1,0
+64,2017-10-19,Falcon 9,3432.3,LEO,CCAFS SLC-40,Success (drone ship),1,False,False,False,1,0,1
+65,2017-09-12,Falcon 9 FT,5626.4,PO,CCAFS SLC-40,Failure (parachute),1,True,False,True,3,0,0
+66,2017-11-16,Falcon 9,477.8,ISS,VAFB SLC-4E,Failure (drone ship),1,False,False,False,1,0,0
+67,2017-08-22,Falcon 9 FT,5922.6,SSO,CCAFS SLC-40,Success (drone ship),3,True,True,True,3,2,1
+68,2017-12-13,Falcon 9 B5,9013.6,ISS,CCAFS SLC-40,Success (ground pad),1,True,False,True,5,0,1
+69,2017-07-25,Falcon 9 B5,5665.6,LEO,CCAFS SLC-40,Success (drone ship),2,True,True,True,5,1,1
+70,2017-04-15,Falcon 9 B4,3575.0,GTO,KSC LC-39A,Success (drone ship),1,True,False,True,4,0,1
+71,2017-04-26,Falcon 9 B4,5475.3,ISS,VAFB SLC-4E,Success (drone ship),1,True,False,True,4,0,1
+72,2018-04-11,Falcon 9,1896.4,MEO,CCAFS SLC-40,Failure (drone ship),1,False,False,False,1,0,0
+73,2018-05-04,Falcon 9 B5,5882.7,VLEO,CCAFS SLC-40,Failure (drone ship),3,True,True,True,5,2,0
+74,2018-11-08,Falcon 9 FT,7497.3,MEO,CCAFS SLC-40,No attempt,1,True,False,True,3,0,0
+75,2018-04-17,Falcon 9 B4,7672.5,LEO,KSC LC-39A,Failure (drone ship),2,True,True,True,4,1,0
+76,2018-08-10,Falcon 9 B4,7181.2,GTO,CCAFS SLC-40,Failure (drone ship),1,True,False,True,4,0,0
+77,2018-09-17,Falcon 9 v1.1,10757.7,SSO,CCAFS SLC-40,No attempt,1,False,False,True,2,0,0
+78,2018-05-24,Falcon 9 B5,4170.3,LEO,CCAFS SLC-40,No attempt,1,True,False,True,5,0,0
+79,2018-08-11,Falcon 9 B5,4427.3,LEO,VAFB SLC-4E,Success (drone ship),1,True,False,True,5,0,1
+80,2018-10-25,Falcon 9 B4,4548.4,GTO,KSC LC-39A,Failure (parachute),2,True,True,True,4,1,0
+81,2019-01-25,Falcon 9 FT,7011.0,LEO,CCAFS SLC-40,Success (drone ship),1,True,False,True,3,0,1
+82,2019-03-08,Falcon 9 B4,352.9,LEO,VAFB SLC-4E,Success (ground pad),3,True,True,True,4,2,1
+83,2019-05-27,Falcon 9 B4,5657.4,SSO,VAFB SLC-4E,Success (ground pad),1,True,False,True,4,0,1
+84,2019-04-13,Falcon 9 v1.1,4449.2,ISS,KSC LC-39A,Success (drone ship),3,False,True,True,2,2,1
+85,2019-03-04,Falcon 9 B4,3797.7,LEO,VAFB SLC-4E,Success (drone ship),1,True,False,True,4,0,1
+86,2019-11-12,Falcon 9 B5,2761.8,LEO,CCAFS SLC-40,Success (ground pad),2,True,True,True,5,1,1
+87,2019-04-05,Falcon 9 B5,3761.0,GTO,KSC LC-39A,Success (ground pad),3,True,True,True,5,2,1
+88,2019-05-21,Falcon 9 v1.1,6537.2,LEO,VAFB SLC-4E,Success (drone ship),1,False,False,True,2,0,1
+89,2019-05-15,Falcon 9,7856.2,LEO,CCAFS SLC-40,Success (drone ship),2,False,True,False,1,1,1
+90,2020-02-27,Falcon 9 B4,4217.8,GTO,CCAFS SLC-40,Success (drone ship),1,True,False,True,4,0,1
