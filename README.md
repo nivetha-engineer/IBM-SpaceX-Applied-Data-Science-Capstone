@@ -305,6 +305,13 @@ Model Performance
 
 The confusion matrix provides the following information:
 
+| Model | TN | FP | FN | TP |
+|---|---|---|---|---|
+| Logistic Regression | 3 | 3 | 0 | 12 |
+| KNN | 2 | 4 | 0 | 12 |
+| SVM | 3 | 3 | 1 | 11 |
+| Decision Tree | 5 | 1 | 0 | 12 |
+
 TN: True Negative
 
 FP: False Positive
