@@ -281,45 +281,45 @@ GridSearchCV
 
 # 📏 Model Evaluation
 
-The models were evaluated using metrics such as:
+The models were evaluated using:
 
-* Accuracy
-* Confusion Matrix
-* F1 Score
-* Precision
-* Recall
+Accuracy
+Precision
+Recall
+F1 Score
+Confusion Matrix
+Model Performance
+Model	Accuracy	Precision	Recall	F1 Score	TN	FP	FN	TP
+Logistic Regression	83.33%	80.00%	100.00%	88.89%	3	3	0	12
+KNN	77.78%	75.00%	100.00%	85.71%	2	4	0	12
+SVM	77.78%	78.57%	91.67%	84.62%	3	3	1	11
+Decision Tree	94.44%	92.31%	100.00%	96.00%	5	1	0	12
+Confusion Matrix
 
-The best-performing model was selected based on the evaluation results obtained from the test dataset.
+The confusion matrix provides the following information:
 
----
+TN: True Negative
+FP: False Positive
+FN: False Negative
+TP: True Positive
 
-# 📌 Key Questions
+Model Selection
 
-The project attempts to answer the following questions:
+Based on the test-set results, the Decision Tree achieved:
 
-### Question 1
+Accuracy: 94.44%
+Precision: 92.31%
+Recall: 100.00%
+F1 Score: 96.00%
 
-How does the launch site affect first-stage landing success?
+The confusion matrix contained:
 
-### Question 2
+True Negatives: 5
+False Positives: 1
+False Negatives: 0
+True Positives: 12
 
-Does payload mass influence landing success?
-
-### Question 3
-
-How does the number of previous flights affect landing success?
-
-### Question 4
-
-Which orbits have higher landing success rates?
-
-### Question 5
-
-Has Falcon 9 landing success improved over time?
-
-### Question 6
-
-Which machine learning model performs best at predicting landing success?
+These results were obtained from the test dataset used in this project.
 
 ---
 
