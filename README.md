@@ -284,39 +284,58 @@ GridSearchCV
 The models were evaluated using:
 
 Accuracy
+
 Precision
+
 Recall
+
 F1 Score
+
 Confusion Matrix
+
 Model Performance
-Model	Accuracy	Precision	Recall	F1 Score	TN	FP	FN	TP
-Logistic Regression	83.33%	80.00%	100.00%	88.89%	3	3	0	12
-KNN	77.78%	75.00%	100.00%	85.71%	2	4	0	12
-SVM	77.78%	78.57%	91.67%	84.62%	3	3	1	11
-Decision Tree	94.44%	92.31%	100.00%	96.00%	5	1	0	12
-Confusion Matrix
+
+| Model | Accuracy | Precision | Recall | F1 Score |
+|---|---|---|---|---|
+| Logistic Regression | 83.33% | 80.00% | 100.00% | 88.89% |
+| KNN | 77.78% | 75.00% | 100.00% | 85.71% |
+| SVM | 77.78% | 78.57% | 91.67% | 84.62% |
+| **Decision Tree** | **94.44%** | **92.31%** | **100.00%** | **96.00%** |
+
 
 The confusion matrix provides the following information:
 
 TN: True Negative
+
 FP: False Positive
+
 FN: False Negative
+
 TP: True Positive
 
+
 Model Selection
+
 
 Based on the test-set results, the Decision Tree achieved:
 
 Accuracy: 94.44%
+
 Precision: 92.31%
+
 Recall: 100.00%
+
 F1 Score: 96.00%
+
 
 The confusion matrix contained:
 
 True Negatives: 5
+
 False Positives: 1
+
 False Negatives: 0
+
 True Positives: 12
 
 These results were obtained from the test dataset used in this project.
